@@ -13,9 +13,9 @@ My First Project
 :   During the web-development course I made a landing page (using HTML, CSS and JS) and multi-page website (using PHP). Apart from that I have done several smaller projects from other courses and tutorials, such as resume-website, clock, landing page.
 
 
-Programming Languages
+*Programming Languages*
 
-:   Basic knowledge of **JavaScript**, **HTML**, **CSS**, **PHP**
+:   Basic knowledge of **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**
 
 [github link]: https://github.com/zhazira-yessimova
 
@@ -32,8 +32,6 @@ Started as a senior curator managing the process of admission of students (mostl
 **Assisstant to the Education Unit at UNESCO Office in Tashkent**
 
 Participated in United Nations Volunteer Program. Took a role of Assistant to the Education Unit. Was involved in events organization, interview conduction, web site support and translational work. 
-
-
 
 Education
 ---------
