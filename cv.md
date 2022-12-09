@@ -13,9 +13,9 @@ My First Project
 :   During the web-development course I made a landing page (using HTML, CSS and JS) and multi-page website (using PHP). Apart from that I have done several smaller projects from other courses and tutorials, such as resume-website, clock, landing page.
 
 
-*Programming Languages*
+*Programming Related Skills*
 
-:   Basic knowledge of **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**
+:   Basic knowledge of **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**, **Git**
 
 [github link]: https://github.com/zhazira-yessimova
 
